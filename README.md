@@ -41,4 +41,4 @@ tweak the lighting. That's it!
 
 ## Here is the code working
 
-![Code in Action!](images/step_seven.png "Code in Action")
+![Code in Action!](images/Java_Donut_Example.gif "Code in Action")
