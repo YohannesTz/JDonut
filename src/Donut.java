@@ -10,8 +10,8 @@ public class Donut {
         for (; ; ) {
             Arrays.fill(b, 0, 1760, ' ');
             Arrays.fill(z, 0, 1760, 0);
-            for (j = 0; 6.28 > j; j += 0.07)
-                for (i = 0; 6.28 > i; i += 0.02) {
+            for (j = 0; 4 > j; j += 0.07)
+                for (i = 0; 4 > i; i += 0.02) {
                     double c = Math.sin(i),
                             d = Math.cos(j),
                             e = Math.sin(A),
