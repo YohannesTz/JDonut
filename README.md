@@ -42,4 +42,4 @@ tweak the lighting. That's it!
 
 ## Here is the code working
 
-![Code in Action!](images/Java_Donut.gif "Code in Action" = 400x600)
+![Code in Action!](images/Java_Donut.gif "Code in Action" =400x600)
